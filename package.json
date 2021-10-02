@@ -1,0 +1,22 @@
+{
+  "name": "31-grupe-404-page",
+  "version": "1.0.0",
+  "description": "Demo projektas apie NPM naudojima",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Nodejs",
+    "npm",
+    "extra"
+  ],
+  "author": "Rimantas",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
